@@ -6,7 +6,7 @@ Besides my technical abilities, I have also developed a strong business acumen, 
 
 I keep educating and refining myself to become a more productive person. Currently pursuing a Masters in Financial Engineering and other certifications to enhance my skills. Particularly interested in applying my skills in the fields of data science, finance and sales.
 
-Skills: Excel, SQL, Power BI, Tableau, Cloud Computing with Azure, Machine Learning, Financial Analysis, Corporate Finance and pricing and trading of securities
+Skills: Excel, Python, R, SQL, Power BI, Tableau, Cloud Computing with Azure, Machine Learning, Financial Analysis, Corporate Finance and pricing and trading of securities
 
 - 🔭 I’m currently working on this page. 
 
